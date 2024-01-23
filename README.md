@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen Rawat</h1>
-<h3 align="center">Aspiring Data Analyst | Seeking Opportunities in Data-driven Decision Making | Excel, SQL, Python, Power BI/Tableau | Transforming Raw Data into Actionable InsightsA passionate frontend developer from India</h3>
+<h3 align="center">Aspiring Data Analyst | Seeking Opportunities in Data-driven Decision Making | Excel, SQL, Python, Power BI| Transforming Raw Data into Actionable Insights</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawat-1995&label=Profile%20views&color=0e75b6&style=flat" alt="rawat-1995" /> </p>
 
